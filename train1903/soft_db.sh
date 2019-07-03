@@ -7,7 +7,7 @@
 ## 软件管理器miniconda2
 
   cd 
-  mkdir -p soft && cd soft
+  mkdir -p soft && cd soft    #创建soft目录，并且进入
   wget -c https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
   bash Miniconda2-latest-Linux-x86_64.sh
   # 正常默认即可，为方便多人使用目录更短，我安装在/conda目录
